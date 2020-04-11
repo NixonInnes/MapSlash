@@ -1,0 +1,5 @@
+tile_properties:
+  temperature: 16.0
+  precipitation: 80.0
+  windspeed: 1.0
+  elevation: 25.0
